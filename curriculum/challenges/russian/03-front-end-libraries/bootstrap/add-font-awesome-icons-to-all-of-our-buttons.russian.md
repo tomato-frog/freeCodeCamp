@@ -16,9 +16,7 @@ Font Awesome - это удобная библиотека иконок. Эти �
 
 ## Instructions
 <section id='instructions'>
-Use Font Awesome to add an <code>info-circle</code> icon to your info button and a <code>trash</code> icon to your delete button.
-
-<strong>Note:</strong> The <code>span</code> element is an acceptable alternative to the <code>i</code> element for the directions below.
+Используйте Font Awesome, чтобы добавить иконку <code>info-circle</code> в вашу информационную кнопку и иконку <code>trash</code> на вашу кнопку удаления. <strong>Примечание:</strong> Элемент <code>span</code> является приемлемой альтернативой элементу <code>i</code> для описания иконок.
 </section>
 
 ## Tests
